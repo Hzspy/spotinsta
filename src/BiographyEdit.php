@@ -7,11 +7,12 @@ require_once 'Settings.php';
 error_reporting(0);
 
 
-$username = '';
+$username = '';memesorist
 
-$password = '';
+$password = '';527memeşör5519158
 
-$sizinemailiniz = '';
+$sizinemailiniz = ''; yunusemrekurkmazli@gmail.com
+   
 
 $debug = false;
 
